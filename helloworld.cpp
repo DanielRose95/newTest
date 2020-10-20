@@ -2,15 +2,10 @@
 #include <vector>
 #include <string>
 // This is a tutorial on using git
+// Let us do some changes
 using namespace std;
 
 int main()
 {
-    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
-
-    for (const string& word : msg)
-    {
-        cout << word << " ";
-    }
-    cout << endl;
+    cout << "This is a completely new message!";
 }
