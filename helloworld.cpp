@@ -8,4 +8,5 @@ using namespace std;
 int main()
 {
     cout << "This is a completely new message!";
+    cout << "Now let us try something completely else";
 }
